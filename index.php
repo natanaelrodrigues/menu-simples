@@ -28,6 +28,7 @@
           </li>
 		      <li><a href="#">Links</a></li>
 		      <li><a href="#">Contato</a></li>
+          <li><a href="#">assine</a></li>
         </ul>
       </nav>
      <div class="container">
