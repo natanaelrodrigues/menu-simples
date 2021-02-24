@@ -5,13 +5,11 @@ body{
     font-size: 14px;
 }
 
-nav{
+.menu-mod1{
     background-color: lightslategray;
     height: 100vh;
     border:1px solid #c0c0c0;
     float:left;
-    display: none;
-
 }
 
 .submenu {
@@ -24,7 +22,7 @@ nav a{
      display:block;
 }
 
-nav li{
+.menu-mod1 li{
     position:relative;
     list-style-type: none;
 }
